@@ -105,7 +105,7 @@ Rinse and Repeat
 ---
 <img src="./images/object_removal_small.jpg"  width="500">
 ---
-<img src="./images/St_Louis_Zoo_062.jpg"  width="500">
+<img src="./images/St_Louis_Zoo_062.JPG"  width="500">
 ---
 [Bringing black and white photos to life using Colourise.sg — a deep learning colouriser trained with old Singaporean photos](https://blog.data.gov.sg/bringing-black-and-white-photos-to-life-using-colourise-sg-435ae5cc5036)
 
