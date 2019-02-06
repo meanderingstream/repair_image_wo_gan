@@ -94,7 +94,7 @@ Rinse and Repeat
 ---
 ## Style Results
 
-<img src="./images/pet_before_after.png"  width="700">
+<img src="./images/dog_collar_input_predict_target.png"  width="700">
 
 ---
 ## What could you do with this technique?
